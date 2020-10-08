@@ -37,7 +37,7 @@ We are currently working to release software and reproduction materials. Stay tu
 		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150">
 	</td>  
 	<td>
-		<img src="/res/maru.jpg" width="150" height="150"> 
+		<img src="https://sapienzanlp.github.io/generationary-web/res/maru.jpg" width="150" height="150"> 
 	</td>
 	<td>
 		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150">
