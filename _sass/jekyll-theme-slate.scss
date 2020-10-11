@@ -259,6 +259,24 @@ form {
   padding: 20px;
 }
 
+table.author {
+  margin-left:auto; 
+  margin-right:auto;
+  text-align: center;
+  table-layout: fixed;
+}
+
+div.author {
+  overflow-x: auto;
+}
+
+img.author {
+  min-width: 125px;
+  max-width: 125px;
+  min-height: 125px;
+  min-height: 125px;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
