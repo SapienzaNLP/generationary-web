@@ -31,16 +31,17 @@ We are currently working to release software and reproduction materials. Stay tu
 
 ## Authors
         
-<table class="center">
+<div class="author">
+<table class="author">
 <tr>
 	<td>
-		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150">
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" class="author">
 	</td>  
 	<td>
-		<img src="https://sapienzanlp.github.io/generationary-web/res/maru.jpg" width="150" height="150"> 
+		<img src="https://mbevila.github.io/generationary_web/res/maru.jpg" class="author"> 
 	</td>
 	<td>
-		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150">
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" class="author">
 	</td>
 </tr>
 <tr>
@@ -66,6 +67,7 @@ We are currently working to release software and reproduction materials. Stay tu
 	</td>
 </tr> 
 </table>
+</div>
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the [ERC Consolidator Grant MOUSSE No. 726487](http://mousse-project.org/) under the European Union's Horizon 2020 research and innovation programme.
