@@ -9,23 +9,25 @@ Our work is a **unified approach** to computational lexical-semantic tasks, enco
 
 To learn more, read our paper:
 
-Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”.](/res/EMNLP2020-Generationary.pdf) *Proceedings of EMNLP*.
+Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”.](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 
 ## Data and Software (Work in Progress!)
-We are currently working to release software and reproduction materials. Stay tuned!
+SamplEval and Hei++ will be available on this page in a few days. The code will be available on request (you can contact us at `bevilacqua@di.uniroma1.it` or `marco.maru@uniroma1.it`).
 
 ## Reference
 ```
 @inproceedings{bevilacqua-etal-2020-generationary,
-    title = "{G}enerationary or: “{H}ow We Went beyond Sense Inventories and Learned to Gloss”",
+    title = "Generationary or: {``}How We Went beyond Word Sense Inventories and Learned to Gloss{''}",
     author = "Bevilacqua, Michele  and
       Maru, Marco  and
       Navigli, Roberto",
-    booktitle = "The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
     month = nov,
     year = "2020",
     address = "Online",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.585",
+    pages = "7207--7221",
 }
 ```
 
