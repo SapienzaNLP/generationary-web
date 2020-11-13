@@ -12,7 +12,7 @@ To learn more, read our paper:
 Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”.](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 
 ## Data and Software (Work in Progress!)
-SamplEval and Hei++ will be available on this page in a few days. The code will be available on request (you can contact us at `bevilacqua@di.uniroma1.it` or `marco.maru@uniroma1.it`).
+SamplEval and Hei++ will be available on this page in a few days. The code will be available on request (you can contact us at `bevilacqua [AT] di [DOT] uniroma1 [DOT] it` or `marco [DOT] maru [AT] uniroma1 [DOT] it`).
 
 ## Reference
 ```
