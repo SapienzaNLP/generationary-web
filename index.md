@@ -14,7 +14,7 @@ Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: â€
 ## Data and Software
 Download Hei++ and SamplEval [here](res/HEI++1.0_SamplEval.zip). 
 
-The code is available on request (you can contact us at `bevilacqua [AT] di [DOT] uniroma1 [DOT] it` or `marco [DOT] maru [AT] uniroma1 [DOT] it`).
+The code is available on request (you can contact us at `bevilacqua [at] di [dot] uniroma1 [dot] it` or `marco [dot] maru [at] uniroma1 [dot] it`).
 
 ## Reference
 ```
